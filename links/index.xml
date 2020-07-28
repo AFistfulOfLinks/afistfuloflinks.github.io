@@ -3,30 +3,12 @@
   <channel>
     <title>Links on A Fistful of Links</title>
     <link>https://afistfuloflinks.github.io/links/</link>
-    <description>Recent content in Links on A Fistful of Links</description>
+    <description>Recent content in Links on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://afistfuloflinks.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://afistfuloflinks.github.io/links/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A Fistful of Links</title>
-      <link>https://afistfuloflinks.github.io/links/1150bcde7e13bc24b65dfa84a3b563a62c9e2ffc0cc844956c783b95adde9015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://afistfuloflinks.github.io/links/1150bcde7e13bc24b65dfa84a3b563a62c9e2ffc0cc844956c783b95adde9015/</guid>
-      <description>There&amp;rsquo;s cool new website of A Fistful of Links weekly newsletter!</description>
-    </item>
-    
-    <item>
-      <title>Red Hat home page</title>
-      <link>https://afistfuloflinks.github.io/links/5ada364e564fabead80163345f4f0a7bb5a5728ab588933d7272b660f7073aba/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://afistfuloflinks.github.io/links/5ada364e564fabead80163345f4f0a7bb5a5728ab588933d7272b660f7073aba/</guid>
-      <description>We make open source technologies for the enterprise</description>
-    </item>
     
   </channel>
 </rss>
