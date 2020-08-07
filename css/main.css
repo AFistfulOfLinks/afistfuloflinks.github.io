@@ -122,15 +122,43 @@ textarea {
   resize: vertical;
 }
 
+
 blockquote {
-  margin-left: 1rem;
   font-size: 1.2rem;
-  border-left: 2px solid #3700FF;
+  line-height: 1.4;
+  position: relative;
+  margin-left: 1rem;
   padding-left: 20px;
 }
 
+blockquote::before,
+blockquote::after {
+	position: absolute;
+	color: #f1efe6;
+	font-size: 4rem;
+	width: 4rem;
+	height: 4rem;
+    z-index: -1;
+}
+
+blockquote::before {
+	content: '“';
+	left: -1rem;
+	top: -1rem;
+}
+
+blockquote::after {
+  content: '”';
+  right: -2rem;
+  bottom: 0;
+  text-align: right;
+}
+
 blockquote cite {
+    display: block;
+    margin-top: -1em;
     font-style: normal;
+    text-align: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -359,13 +387,14 @@ table th {
 
 .posts.flat .post h2 {
     font-size: 1.6rem;
+    margin-top: 0;
 }
 
 main article.single-link {
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
 }
 
-main article.single-link:last-child {
+main ul.posts li:last-child article.single-link {
     margin-bottom: unset;
 }
 
@@ -408,6 +437,7 @@ main article.single-link:last-child {
 
 .tag-cloud a {
     margin-right: 15px;
+    white-space: nowrap;
 }
 
 .author {
@@ -427,6 +457,15 @@ main article.single-link:last-child {
 .termsfloating_right {
   float: right;
   width: 80%;
+}
+
+.tags a::after {
+    content: " - ";
+    color: rgb(51, 51, 51);
+}
+
+.tags a:last-child::after {
+    content: unset;
 }
 
 .taxosfloating_left {
@@ -493,6 +532,46 @@ p.edition {
     text-align: right;
 }
 
+#editors .person img {
+    border-radius: 100%;
+}
+
+#editors .person ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+#editors .person ul li a::before {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f0c1";
+    font-weight: 900;
+    padding-right: 10px;
+    color: #333;
+}
+
+#editors .person ul li a[href*="twitter"]::before {
+    font-family: 'Font Awesome 5 Brands';
+    content: "\f099";
+    font-weight: 400;
+}
+
+#editors .person ul li a[href*="amazon"]::before {
+    font-family: 'Font Awesome 5 Brands';
+    content: "\f270";
+    font-weight: 400;
+}
+
+@media screen and (min-width: 801px) {
+    #editors {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #editors .person {
+        width: 45%;
+    }
+}
+
 @media screen and (max-width: 800px) {
   body {
     margin: 0 auto;
@@ -514,13 +593,6 @@ p.edition {
 
   h4 {
     font-size: 1rem;
-  }
-
-  blockquote {
-    margin-left: 1rem;
-    font-size: 1rem;
-    border-left: 2px solid #3700FF;
-    padding-left: 20px;
   }
 
   table {
