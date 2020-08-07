@@ -394,6 +394,10 @@ main article.single-link {
     margin-bottom: 5rem;
 }
 
+main article.single-link:first-of-type {
+    margin-top: 5rem;
+}
+
 main ul.posts li:last-child article.single-link {
     margin-bottom: unset;
 }
@@ -448,6 +452,7 @@ main ul.posts li:last-child article.single-link {
 .tags {
   text-align: center;
   padding: 5px 0 20px 0;
+  margin-bottom: 5rem;
 }
 
 .clearit {
@@ -570,6 +575,14 @@ p.edition {
     #editors .person {
         width: 45%;
     }
+}
+
+#load-comments {
+    display: none;
+    margin: 0 auto 1em auto;
+    min-width: 170px;
+    width: 10vw;
+    height: 3em;
 }
 
 @media screen and (max-width: 800px) {
