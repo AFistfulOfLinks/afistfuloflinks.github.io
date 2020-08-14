@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getting things done on A Fistful of Links</title>
+    <link>https://afistfuloflinks.github.io/tags/getting-things-done/</link>
+    <description>Recent content in getting things done on afistfuloflinks.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://afistfuloflinks.github.io/tags/getting-things-done/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

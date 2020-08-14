@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ansible tower on A Fistful of Links</title>
+    <link>https://afistfuloflinks.github.io/tags/ansible-tower/</link>
+    <description>Recent content in ansible tower on afistfuloflinks.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://afistfuloflinks.github.io/tags/ansible-tower/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
