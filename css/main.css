@@ -314,7 +314,7 @@ table th {
 
 .post-header .meta .date {
     margin-right: 19px;
-    width: 75px;
+    width: 100px;
     text-align: center;
 }
 
@@ -398,8 +398,12 @@ main article.single-link:first-of-type {
     margin-top: 5rem;
 }
 
-main ul.posts li:last-child article.single-link {
-    margin-bottom: unset;
+main ul.posts article.single-link:first-of-type {
+    margin-top: calc(5rem - 20px);
+}
+
+main ul.posts article.single-link {
+    margin-bottom: 0;
 }
 
 .pagination {
@@ -532,7 +536,19 @@ p code {
 }
 
 p.edition {
+    /* styles that are common, like bold and italic, maybe font size */
     font-style: italic;
+}
+
+.post .matter p.edition {
+    /* styles specific to edition on posts list page */
+    text-align: left;
+    font-size: 0.8em;
+    margin-top: 10px;
+}
+
+main > p.edition {
+    /* styles specific to edition on single post, like right-alignment */
     font-weight: bold;
     text-align: right;
 }
