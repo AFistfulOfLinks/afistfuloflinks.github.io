@@ -6,11 +6,18 @@
     <description>Recent content on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - September 14, 2020</title>
+      <link>https://afistfuloflinks.github.io/posts/2020-09-14/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2020-09-14/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;Designing with types (eight-part series)&lt;/li&gt;&lt;li&gt;Common Python Packaging Mistakes&lt;/li&gt;&lt;li&gt;NetSPI SQL Injection Wiki&lt;/li&gt;&lt;li&gt;Let’s Focus More on Quality and Less on Testing&lt;/li&gt;&lt;li&gt;“Why Didn’t We Catch This in QA?”&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - September 07, 2020</title>
       <link>https://afistfuloflinks.github.io/posts/2020-09-07/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:01 +0000</pubDate>
