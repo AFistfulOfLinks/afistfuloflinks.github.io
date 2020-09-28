@@ -6,11 +6,18 @@
     <description>Recent content in Posts on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - September 28, 2020</title>
+      <link>https://afistfuloflinks.github.io/posts/2020-09-28/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2020-09-28/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;6 Ways to Do Automated UI Testing in Parallel With Selenium&lt;/li&gt;&lt;li&gt;Testing Python code that makes HTTP requests&lt;/li&gt;&lt;li&gt;Make Issue Types Great Again&lt;/li&gt;&lt;li&gt;Surviving Django (if you care about databases)&lt;/li&gt;&lt;li&gt;My favourite line of CSS&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - September 21, 2020</title>
       <link>https://afistfuloflinks.github.io/posts/2020-09-21/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:01 +0000</pubDate>
