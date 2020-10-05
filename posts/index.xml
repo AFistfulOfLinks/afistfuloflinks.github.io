@@ -6,11 +6,18 @@
     <description>Recent content in Posts on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - October 05, 2020</title>
+      <link>https://afistfuloflinks.github.io/posts/2020-10-05/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2020-10-05/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;CODE REVIEW – FROM GOOD TO GREAT&lt;/li&gt;&lt;li&gt;The golden rule of software quality&lt;/li&gt;&lt;li&gt;Tactical Challenges In Hiring Junior Engineers&lt;/li&gt;&lt;li&gt;Tales of the Autistic Developer - Senior Developer&lt;/li&gt;&lt;li&gt;Go vs Rust: Writing a CLI tool&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - September 28, 2020</title>
       <link>https://afistfuloflinks.github.io/posts/2020-09-28/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:01 +0000</pubDate>
