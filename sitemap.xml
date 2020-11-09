@@ -4,16 +4,21 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/</loc>
-    <lastmod>2020-11-02T00:00:01+00:00</lastmod>
+    <lastmod>2020-11-09T00:00:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afistfuloflinks.github.io/posts/2020-11-02/</loc>
-    <lastmod>2020-11-02T00:00:01+00:00</lastmod>
+    <loc>https://afistfuloflinks.github.io/posts/2020-11-09/</loc>
+    <lastmod>2020-11-09T00:00:01+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://afistfuloflinks.github.io/posts/</loc>
+    <lastmod>2020-11-09T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/posts/2020-11-02/</loc>
     <lastmod>2020-11-02T00:00:01+00:00</lastmod>
   </url>
   
@@ -752,6 +757,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/links/e094c799710447a17ba18383e8fab99abfdd6944db62d0df31f48b64160d6f2f/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/461debb96448f1b8c75571135ea84f9ee4339eed697f72def5d5dc87a939bcc1/</loc>
   </url>
   
   <url>
@@ -1607,6 +1616,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/tags/context-manager/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/tags/continuous-delivery/</loc>
   </url>
   
@@ -1927,6 +1940,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/tags/empathy/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/tags/employee-relations/</loc>
   </url>
   
@@ -2015,10 +2032,6 @@
   </url>
   
   <url>
-    <loc>https://afistfuloflinks.github.io/tags/exploratory-testing/</loc>
-  </url>
-  
-  <url>
     <loc>https://afistfuloflinks.github.io/links/66638fd3208329b763d964d7e2b032d748913936d65c3843f87524b365e58b91/</loc>
   </url>
   
@@ -2028,6 +2041,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/links/7003bc88f201230025a49dd922c42c77b98ef8627bfd83b41aa400d2e3e93bf0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/tags/exploratory-testing/</loc>
   </url>
   
   <url>
@@ -2915,6 +2932,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/links/6bd254c474ea6a8c0e953b7f8f1e4657dca927421986a193372d271773976278/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/tags/kubernetes/</loc>
   </url>
   
@@ -2984,6 +3005,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/links/d36c3141cd609a22b01de03ad87efc189dc19de1b4d39fda506f565005a579e2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/83ba3762a2f14a2bda7c888ca943b49d7e2ee998e556bac5316d75080520e3e4/</loc>
   </url>
   
   <url>
@@ -3339,6 +3364,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/tags/okr/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/tags/okrs/</loc>
   </url>
   
@@ -3412,6 +3441,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/links/35f81e304eff89b7bb4bfba75444b13eccf868d7a89d5f6518c0cf253712bc9c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/7745fa849b368c41abd7d4438bdd3bcf5b201d6472bf7564285c073af4e3c30e/</loc>
   </url>
   
   <url>
@@ -3660,6 +3693,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/tags/python-black/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/33843d68f03677fe8f333bd3efbd287d8e2eaa2499f54abc9ff134f0fe6f3415/</loc>
   </url>
   
   <url>
@@ -4119,6 +4156,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/tags/soft-skill/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/tags/software/</loc>
   </url>
   
@@ -4212,6 +4253,10 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/tags/statistical-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/27fc8efd6aa32907e3c4589dca805c6b4e2edead254dc8a1d49e30b1c625341a/</loc>
   </url>
   
   <url>
@@ -4611,6 +4656,10 @@
   </url>
   
   <url>
+    <loc>https://afistfuloflinks.github.io/links/29cd397a06e862ac2587975ae3b2f188168e1fc1de61efd12ec02d01020d742d/</loc>
+  </url>
+  
+  <url>
     <loc>https://afistfuloflinks.github.io/links/22bd0d0c302bbaf3a0601dce6ef9cd02e41bbb9b00d4e4b593555bde9e1a95b4/</loc>
   </url>
   
@@ -4728,6 +4777,14 @@
   
   <url>
     <loc>https://afistfuloflinks.github.io/links/3da6171877522714692d550261a16ff6b3db29fb478494813cd15d701afb231a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/2774d48d785b5a60535b20718b1db183afb482fe70796c4990f9a6f07f6fcdd6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afistfuloflinks.github.io/links/30e3a38cc2929a38243db405e65f473fb36e2ce592eaa400e51e683087418980/</loc>
   </url>
   
   <url>

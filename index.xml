@@ -6,11 +6,18 @@
     <description>Recent content on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - November 09, 2020</title>
+      <link>https://afistfuloflinks.github.io/posts/2020-11-09/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2020-11-09/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;The Magic of Python Context Managers&lt;/li&gt;&lt;li&gt;Code reviews: from nitpicking to cooperation&lt;/li&gt;&lt;li&gt;Lessons Learned from a Little Bug&lt;/li&gt;&lt;li&gt;Staying with Problems Longer&lt;/li&gt;&lt;li&gt;Python For Feature Film&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - November 02, 2020</title>
       <link>https://afistfuloflinks.github.io/posts/2020-11-02/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:01 +0000</pubDate>
