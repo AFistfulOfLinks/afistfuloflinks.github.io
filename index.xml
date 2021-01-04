@@ -6,11 +6,18 @@
     <description>Recent content on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - January 04, 2021</title>
+      <link>https://afistfuloflinks.github.io/posts/2021-01-04/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2021-01-04/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;Practical Web Cache Poisoning&lt;/li&gt;&lt;li&gt;Strategies &amp; Tips For Improving Your Testing Reputation&lt;/li&gt;&lt;li&gt;Hunting for Malicious Packages on PyPI&lt;/li&gt;&lt;li&gt;Scale your thinking for better testing&lt;/li&gt;&lt;li&gt;“I&#39;ve had to relearn coding to get through the new interviews”&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - December 28, 2020</title>
       <link>https://afistfuloflinks.github.io/posts/2020-12-28/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:01 +0000</pubDate>
