@@ -6,11 +6,18 @@
     <description>Recent content on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 May 2021 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - May 10, 2021</title>
+      <link>https://afistfuloflinks.github.io/posts/2021-05-10/</link>
+      <pubDate>Mon, 10 May 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2021-05-10/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;Quality Engineer Learning Roadmap&lt;/li&gt;&lt;li&gt;Dying, fast and slow: out-of-memory crashes in Python&lt;/li&gt;&lt;li&gt;An interesting issue around using is with a literal in Python&lt;/li&gt;&lt;li&gt;Embrace the Grind&lt;/li&gt;&lt;li&gt;Remote work tips: availability heat map&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - May 03, 2021</title>
       <link>https://afistfuloflinks.github.io/posts/2021-05-03/</link>
       <pubDate>Mon, 03 May 2021 00:00:01 +0000</pubDate>
