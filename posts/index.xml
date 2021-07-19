@@ -6,11 +6,18 @@
     <description>Recent content in Posts on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - July 19, 2021</title>
+      <link>https://afistfuloflinks.github.io/posts/2021-07-19/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2021-07-19/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;Are Automated Test Retries Good or Bad?&lt;/li&gt;&lt;li&gt;7 ways to implement DTOs in Python and what to keep in mind&lt;/li&gt;&lt;li&gt;Why asynchronous Rust doesn&#39;t work&lt;/li&gt;&lt;li&gt;Are You Stuck On Vision, Strategy, or Tactics?&lt;/li&gt;&lt;li&gt;One of the fathers of modern computing used this 6-step process to solve any problem&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - July 12, 2021</title>
       <link>https://afistfuloflinks.github.io/posts/2021-07-12/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:01 +0000</pubDate>
