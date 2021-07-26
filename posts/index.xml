@@ -6,11 +6,18 @@
     <description>Recent content in Posts on afistfuloflinks.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 00:00:01 +0000</lastBuildDate>
     
     <atom:link href="https://afistfuloflinks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Fistful of Links - July 26, 2021</title>
+      <link>https://afistfuloflinks.github.io/posts/2021-07-26/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://afistfuloflinks.github.io/posts/2021-07-26/</guid>
+      <description>&lt;ol&gt;&lt;li&gt;Python behind the scenes: how the Python import system works&lt;/li&gt;&lt;li&gt;Python Concurrency: The Tricky Bits&lt;/li&gt;&lt;li&gt;A 5-Point Framework For Python Performance Management&lt;/li&gt;&lt;li&gt;How Performance Became the Nemesis of the Secure Python Code&lt;/li&gt;&lt;li&gt;Five Common Django Mistakes&lt;/li&gt;&lt;/ol&gt;</description>
+    </item><item>
       <title>A Fistful of Links - July 19, 2021</title>
       <link>https://afistfuloflinks.github.io/posts/2021-07-19/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:01 +0000</pubDate>
